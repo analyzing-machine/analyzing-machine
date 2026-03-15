@@ -1,17 +1,17 @@
-# Machine name
-Machine description
+# Analyzing Machine
+A Machine that analyzes meanings.
 ```bash
   echo "Theodotos-Alexandreus: Are language models seeking the Truth, machine?" \
-    | uvx machine-name \
+    | uvx analyzing-machine \
         --provider-api-key=sk-ant-api... \
         --github-token=ghp_... 
 ```
 Or:
 ```bash
-  pip install machine-name
+  pip install analyzing-machine
 ```
 Then:
 ```Python
   # Python
-  import machine_name
+  import analyzing_machine
 ```
